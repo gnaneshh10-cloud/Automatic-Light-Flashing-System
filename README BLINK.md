@@ -1,6 +1,10 @@
 ## **1\. Abstract**
 
-The Arduino LED Blink project is a basic electronics project that demonstrates how to control an LED using an Arduino board. In this project, an LED is connected to an Arduino through a breadboard and a resistor. The Arduino is programmed to turn the LED ON and OFF at regular intervals. This project helps beginners understand digital output, circuit connections, and basic Arduino programming.
+This project demonstrates an LED blinking system using Arduino UNO.
+The LED is programmed to turn ON and OFF at regular time intervals,
+providing a simple introduction to digital output control and basic
+Arduino programming.
+
 
 ## **2\. Description**
 
